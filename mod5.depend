@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1666549088 source:c:\users\asus\documents\a.semester 3\struktur data\praktikum\mod5\main.cpp
+	<iostream>
+	"sll.h"
+
+1666547730 c:\users\asus\documents\a.semester 3\struktur data\praktikum\mod5\sll.h
+	<iostream>
+	<conio.h>
+
+1666548066 source:c:\users\asus\documents\a.semester 3\struktur data\praktikum\mod5\sll.cpp
+	"sll.h"
+
